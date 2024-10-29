@@ -1,7 +1,7 @@
 :root {
   --text-color: #1a1c20;
   --link-color: #4a76ee;
-  --background-color: #eeeff1;
+  --background-color: ##CCCCFF;
 }
 
 * {
@@ -34,7 +34,7 @@ nav {
   align-items: center;
 
   padding: 0 50px;
-  height: 80px;
+  height: 90px;
 }
 
 nav .left a {
@@ -85,7 +85,7 @@ nav .right a span {
 .hero-section .text .links a {
   display: inline-block;
   padding: 5px 10px;
-  border: 2px solid var(--link-color);
+  border: 5px solid var(--link-color);
   border-radius: 5px;
   margin-right: 10px;
   margin-bottom: 10px;
